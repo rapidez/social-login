@@ -6,7 +6,7 @@ The packages is ready and used in some Rapidez projects but not open sourced and
 
 ## Examples
 
-Here are some examples of the package in action.
+Here are some examples with just Google.
 
 ### Registration
 
